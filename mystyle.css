@@ -1,0 +1,72 @@
+body
+{	
+	
+	background-image: url(inventory/inventory-background2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right;
+	background-size: cover;
+	color: white;
+	width: 80%;
+}
+.inventory 
+{
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	letter-spacing: 1.5px;
+	color: black;
+    border-radius: 10px;
+    background: rgb(255,255,125);
+    padding: 10px;
+    width: 290px;
+    height: 50px;
+}
+.welcome
+{
+	font-size: 30px;
+	font-weight: bold;
+}
+.start
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+a:hover
+{
+	color: darkgoldenrod;
+}
+a
+{
+	color: navajowhite;
+}
+.link
+{
+	font-size: 16px;
+	font-style: italic;
+}
+.armoury
+{
+	font-weight: bold;
+	font-size: 24px;
+	text-decoration: underline;
+}
+p
+{
+	font-size: 18px;
+}
+p.armour
+{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 20px;
+}
+p.guns
+{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 20px;
+}

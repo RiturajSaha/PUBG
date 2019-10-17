@@ -1,0 +1,374 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>PUBG ANALYSER</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+<body>
+<center><h1 class="inventory">INVENTORY</h1></center>
+<p class="welcome">Welcome to PUBG MOBILE Inventory</p>
+<p>Things to do:<br>
+  <a href="#armoury">1. know about the statistics of the Headgear, Body armour, Guns, Grenades, Melee Weapons and Backpacks</a><br>
+  <a href="#consumables">2. know about the consumables</a><br>
+  <a href="#airdrops">3. know about the vehicles and their mechanics</a><br></p>
+<p></p>
+<p class="link">Click on the above links to know more!!</p>
+<p></p>
+<a name="armoury"><p class="armoury">PUBG Armoury</p></a>
+<p>Here you will find the statistics of the different weapons and grenades available in the game, Headgear, Body armour and Backpacks.</p>
+<table width="754" height="174" border="2">
+  <caption>
+    HEADGEAR<br><br>
+  </caption>
+  <tbody>
+    <tr>
+      <th width="136" height="40" scope="col"><h4>IMAGE</h4></th>
+      <th width="226" scope="col"><h4>NAME</h4></th>
+      <th width="108" scope="col"><h4>ARMOR</h4></th>
+      <th width="254" scope="col">DAMAGE REDUCTION</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="armory/helmet_level1.png" width="64" height="64" alt=""/></td>
+      <td align="center"><h4>Motorcycle Helmet(Level 1)</h4></td>
+      <td align="center"><h4>80</h4></td>
+      <td align="center"><h4>30%</h4></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="armory/helmet_level2.png" width="64" height="64" alt=""/></td>
+      <td align="center"><h4>Military Helmet(Level 2)</h4></td>
+      <td align="center"><h4>150</h4></td>
+      <td align="center"><h4>40%</h4></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="armory/helmet_level3.png" width="64" height="64" alt=""/></td>
+      <td align="center"><h4>Spetsnaz Helmet(Level 3)</h4></td>
+      <td align="center"><h4>230</h4></td>
+      <td align="center"><h4>55%</h4></td>
+    </tr>
+  </tbody>
+</table>
+<p><strong>Helmets</strong> are a type of equipment in PUBG. Helmets provide head protection but they do <strong>NOT</strong> provide extra <strong>capacity.</strong> Head armor will last until fully destroyed by gunfire or other types of   damage and will block the full damage even if it has only 1 point of   armor left. It is useful to pick up a helmet no matter what level it is   as it provides protection against instant-kills with head shots, most of   the time. </p>
+<p>For example, a level 3 helmet can still protect you from a headshot even if it's damaged. </p>
+<hr>
+<table width="809" height="159" border="2">
+  <caption>
+    BODY ARMOUR
+  <br>
+  <br>
+  </caption>
+  <tbody>
+    <tr>
+      <th scope="col">IMAGE</th>
+      <th scope="col">NAME</th>
+      <th scope="col">ARMOR</th>
+      <th scope="col">DAMGAE RFEDUCTION</th>
+    </tr>
+    <tr>
+      <td><p><img src="armory/vest.png" width="240" height="240" alt=""/></p>
+      <p>&nbsp;</p></td>
+      <td>Police Vest(Level 1)</td>
+      <td>200</td>
+      <td>30%</td>
+    </tr>
+    <tr>
+      <td><img src="armory/police_vest.png" width="240" height="240" alt=""/></td>
+      <td>Police Vest(Level 2)</td>
+      <td>220</td>
+      <td>40%</td>
+    </tr>
+    <tr>
+      <td><img src="armory/military_vest.png" width="240" height="240" alt=""/></td>
+      <td>Military Vest(Level 3)</td>
+      <td>250</td>
+      <td>55%</td>
+    </tr>
+  </tbody>
+</table>
+<p><strong>Vests</strong> are a type of equipment in PUBG.   They provide basic protection and an increase in carrying capacity.   Each vest increases the carrying capacity by 70 units. Body armor will last until fully destroyed by gunfire or other types of   damage and will block the full damage even if it has only 1 point of   armor left. It is useful to pick up a vest no matter what level it is as   it provides protection against instant-kills with body shots, most of   the time.</p>
+<p>For example, a damaged level three vest is better than a full health level 2 vest.</p>
+<table width="814" height="169" border="2">
+  <caption>
+    BACKPACKS
+  <br>
+  <br>
+  </caption>
+  <tbody>
+    <tr>
+      <th scope="col">IMAGE</th>
+      <th scope="col">NAME</th>
+      <th scope="col">CAPACITY</th>
+    </tr>
+    <tr>
+      <td><img src="armory/bp1.png" width="240" height="240" alt=""/></td>
+      <td>Backpack Level 1</td>
+      <td>170</td>
+    </tr>
+    <tr>
+      <td><img src="armory/bp2.png" width="240" height="240" alt=""/></td>
+      <td>Backpack Level 2</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <td><img src="armory/bp3.png" width="240" height="240" alt=""/></td>
+      <td>Backpack Level 3</td>
+      <td>270</td>
+    </tr>
+  </tbody>
+</table>
+<p>Backpacks are used to carry more items such as medical supplies, ammunition, grenades etc. They are only used to increase capacity they do not provide any protection.</p>
+<p>&nbsp;</p>
+<p>WEAPONS</p>
+<p>there are different categories of weapons in pUBG :<br>1.Assault rifles<br>2.Sub Machine gun<br>3.pistols<br>4.Designated Marksmen rifle<br>5.bolt action rifle<br>6.shotguns<br>7.grenages<br>8.melee weapons<br>9.crossbow<br>
+</P>
+<p>ASSAULT RIFLES(AR)</P>
+<table width="884" height="201" border="2">
+  <tbody>
+    <tr>
+      <th scope="col">IMAGE</th>
+      <th scope="col">NAME</th>
+      <th scope="col">DMG</th>
+      <th scope="col">PWR</th>
+      <th scope="col">SPD</th>
+      <th scope="col">ATTACH</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>AKM</td>
+      <td>49</td>
+      <td>10,000</td>
+      <td>715</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>GROZA *</td>
+      <td>49</td>
+      <td>10,000</td>
+      <td>715</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>AUG *</td>
+      <td>43</td>
+      <td>9,000</td>
+      <td>940</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>M416</td>
+      <td>43</td>
+      <td>3,500</td>
+      <td>880</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>M16A4</td>
+      <td>43</td>
+      <td>8,000</td>
+      <td>900</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>SCAR-L</td>
+      <td>43</td>
+      <td>9,000</td>
+      <td>870</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+<p>According to this table the akm and groza have more damage due to their ammo type i.e 7.62mm ammo. the aug is the best weapon along with all the attachments. The M416,SCAR-L,M16A4,AUG take 5.56mm ammo. Each weapon's magazine size is 30 bullets. and after attaching extended mag they contain 40 bullets each. Each weapon has two modes-auto and single. but the m16a4 has single and burst fire mode. According to some tests the Akm has the most recoil out of all the ARs ecluding the M16a4 beacuse it burst mode and the AUG has the least recoil.</P>
+<p>* AUG and Groza are crate only weapons.</P>
+<p>SUB-machine guns(SMG)</P>
+<table width="885" height="162" border="2">
+  <tbody>
+    <tr>
+      <th scope="col">IMAGE</th>
+      <th scope="col">NAME</th>
+      <th scope="col">DMG</th>
+      <th scope="col">PWR</th>
+      <th scope="col">SPD</th>
+      <th scope="col">ATTACH</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>MICRO UZI</td>
+      <td>26</td>
+      <td>5000</td>
+      <td>350</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>TOMMY GUN</td>
+      <td>40</td>
+      <td>7000</td>
+      <td>280</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>UMP9</td>
+      <td>39</td>
+      <td>7000</td>
+      <td>400</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>VECTOR</td>
+      <td>34</td>
+      <td>7000</td>
+      <td>300</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+<p>the tommy gun and vector take .45 acp bullets and the ump98 and uzi take 9mm bullets.</P>
+<p>Submachine Guns are great close-range weapons that have the accuracy of most <a href="https://pubg.gamepedia.com/Pistols" title="Pistols">Pistols</a> but get the magazine size and fire rate of one of the <a href="https://pubg.gamepedia.com/Assault_Rifles" title="Assault Rifles">Assault Rifles</a>.</P>
+<p>Bolt action rifles</P>
+<table width="885" height="139" border="2">
+  <tbody>
+    <tr>
+      <th scope="col">IMAGE</th>
+      <th scope="col">NAME</th>
+      <th scope="col">DMG</th>
+      <th scope="col">SPD</th>
+      <th scope="col">PWR</th>
+    </tr>
+    <tr>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">AWM</th>
+      <th scope="col">120</th>
+      <th scope="col">945</th>
+      <th scope="col">40,000</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>M24</td>
+      <td>79</td>
+      <td>790</td>
+      <td>20,000</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>KAR 98-K</td>
+      <td>74</td>
+      <td>760</td>
+      <td>16,000</td>
+    </tr>
+  </tbody>
+</table>
+<p>according to test results the awm does the most damage but one downside is that it is a crate only gun.</P>
+<p>the awm can take out a level 3 helmet with one shot only. and takes 2 shots to take out level 3 vest.</P>
+<p>Sniper Rifles are the ultimate weapons when it comes to range and power.   In general, these rifles suffer from low magazine sizes and a   cripplingly low rate of fire, but are redeemed by their high damage and   extreme range capabilities. Due to the small magazine sizes and slow   rate of fire, one must use these rifles with extreme caution, as one   shot missed could spell the end for the user, and multiple shots missed   means a long time of being vulnerable while reloading or switching   weapons.</P>
+<p>Designated marksmen rifles(DMR)</P>
+<table width="200" border="2">
+  <tbody>
+    <tr>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<p>the mk14 and the vss have two modes- single and auto. the sks,mini-14,slr are semi automatic rifles. these have reasonable fire rates.the vss has its own type of scope. the rest take all the scope attachments.</P>
+<p>DMRs, or Designated Marksman Rifles, are weapons between the <a href="https://pubg.gamepedia.com/Assault_Rifles" title="Assault Rifles">Assault Rifles</a> and <a href="https://pubg.gamepedia.com/Sniper_Rifles" title="Sniper Rifles">Sniper Rifles</a> categories. Broadly speaking, they've got just short of the range of a   sniper rifle, and just slightly higher damage than an assault rifle,   albeit with a slightly lower magazine size. Functionally speaking,   they're a great short to medium range precision rifle, but they're not   that great in assault situations.</P>
+<p>pistols</P>
+<table width="200" border="2">
+  <tbody>
+    <tr>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+      <th scope="col">&nbsp;</th>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+<p>throwables/grenades</P>
+<p>melee wepons</P>
+<p>crossbow</P>
+<p>&nbsp;</P>
+</body>
+</html>
